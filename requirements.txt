@@ -1,4 +1,4 @@
 flask
 requests
 pyjwt
-json
+gunicorn==20.1.*
